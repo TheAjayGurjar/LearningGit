@@ -1,0 +1,15 @@
+we can also clone github repo with 
+our project by downloading the files 
+and saving it in our project
+
+but we can also do that by using
+
+git clone urlOfRepoToClone
+
+after that we can do all the operation 
+like git log etc. on that to.
+
+now lets add some git tutorial repo to 
+our project i.et
+
+https://github.com/TheAlgorithms/Java.git
