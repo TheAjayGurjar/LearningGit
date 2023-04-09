@@ -14,5 +14,4 @@ the separate branch from master branch
  git checkout branchName
 
  now we will add this file in this branch.
-
  by commiting it
