@@ -1,0 +1,11 @@
+this chapter is created after the creation
+of chapter 5 in adding-ch5 branch.
+
+this chapter is create din master branch by
+switching back to master branch using
+
+git checkout master
+
+add this file by commiting and then check
+git log we will see the latest commits on this
+branch local and remote both.
