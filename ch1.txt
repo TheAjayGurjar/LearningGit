@@ -15,4 +15,7 @@ commands used by git
 4. git add .
 5. git commit -m "description of commit"
 6. git log
-7. rgvszrvservfvfvvfvfvffvfvfdfvvfvfvf
+7. git diff (shows diff bw last commites
+and current state of pwd)
+8. git checkout (revert the pwd to last
+commited state).
