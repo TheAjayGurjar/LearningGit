@@ -9,3 +9,17 @@ git checkout master
 add this file by commiting and then check
 git log we will see the latest commits on this
 branch local and remote both.
+
+now if we want to merge the changes in 
+in adding-ch5 branch to master branch
+we can use this by being in master branch
+
+git merge nameOfTheBranch
+
+this will oven vim editor to add a massage
+on the merging 
+
+once added the massage use this to save and 
+quit
+
+:q!
