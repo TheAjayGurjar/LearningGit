@@ -1,0 +1,17 @@
+for adding this chapter i have created 
+the separate branch from master branch
+ by using 
+
+ git branch nameOfBranch
+
+ check all the branch and current brach 
+ you are in by using
+
+ git branch
+
+ switch to another branch by using
+
+ git checkout branchName
+
+ now we will add this file in this branch.
+ by commiting it
