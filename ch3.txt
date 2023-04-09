@@ -1,0 +1,35 @@
+files having secret data or crucial setting
+need not to be uploaded to remote repo
+
+so i am hiding secrets.txt which contains
+api keys and .DS_Store which contains
+settings of my project by using gitignore feature
+
+for that u have to create the .gitignore file which 
+will be hidden in file explorer
+
+without adding anything in the .gitignore file
+if we use git add. it will add all the  files 
+to staging area
+
+so undo the staging process by using
+
+git rm --cached -r .
+
+in order to ignore any file just add the 
+individual file name on separate line in 
+.gitignore file 
+in our case secrets.txt which contains
+api keys and .DS_Store which contains
+settings of my project
+
+.gitignore file has certain settings too
+like
+# filename (can be used to ignore file
+from getting ignored)
+* .fileextention (used to ignore all files 
+having that extention)
+
+
+
+
