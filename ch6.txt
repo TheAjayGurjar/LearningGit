@@ -23,3 +23,10 @@ once added the massage use this to save and
 quit
 
 :q!
+
+once the branch is merged we can see the changes
+the other branch will still exits
+check by 
+
+git branch 
+
