@@ -1,0 +1,21 @@
+till now we only created a local repo,
+but we can also create a remote repo to
+track the changes in the project
+
+for that create a remote repo at github
+then link the local git repo to the repo
+on github by
+
+git remote add origin https://github.com/TheAjayGurjar/LearningGit.git
+
+origin simply the name of our remote
+
+once connected push the local repo to
+remote repo origin using 
+
+git push -u origin master
+
+master is the default branch of origin
+
+we can use insight feature on github to 
+track the branches of our github repo
