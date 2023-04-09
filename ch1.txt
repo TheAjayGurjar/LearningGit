@@ -1,0 +1,17 @@
+Git is the vcs which tracks the changes 
+in your project and you can go to any time
+stamp of your project.
+
+git has three steps 
+1. initialising git to current 
+working directory
+2. adding to staging area 
+3. commit the changes to local repo
+
+commands used by git
+1. git init
+2. git status
+3. git add filename.extention
+4. git add .
+5. git commit -m "description of commit"
+6. git log
